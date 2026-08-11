@@ -119,3 +119,5 @@ function getAuthorName(author:Commit): string{
     return commit.author.name;
 }
 getAuthorName(commit);
+
+
